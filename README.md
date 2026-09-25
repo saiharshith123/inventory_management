@@ -87,15 +87,15 @@ The system provides:
 
 ## 🛠️ Technologies Used
 
-  Technology   Purpose
-  ------------ ---------------------------------
-  Python       Application development
-  PostgreSQL   Relational database
-  SQL          Database operations and reports
-  psycopg2     Python-PostgreSQL connectivity
-  OOP          Application structure
-  Git          Version control
-  GitHub       Project hosting
+| Technology | Purpose |
+|------------|---------|
+| **Python** | Application development and business logic |
+| **PostgreSQL** | Relational database management |
+| **SQL** | Database operations, queries, joins, and reports |
+| **psycopg2** | Python–PostgreSQL database connectivity |
+| **OOP** | Object-oriented application structure |
+| **Git** | Version control and source code management |
+| **GitHub** | Repository hosting and project collaboration |
 
 ------------------------------------------------------------------------
 
