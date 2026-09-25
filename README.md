@@ -1,4 +1,4 @@
-# Inventory Management & Business Reporting System
+# 🎓 Inventory Management & Business Reporting System
 
 A Python and PostgreSQL based inventory management application designed
 to help small and medium-sized businesses manage products, suppliers,
@@ -598,7 +598,7 @@ Total Sales Revenue
 
 ------------------------------------------------------------------------
 
-# 🧪 Testing the Application
+## 🧪 Testing the Application
 
 Recommended testing sequence:
 
@@ -632,7 +632,7 @@ The system should reject the sale and roll back the transaction.
 
 ------------------------------------------------------------------------
 
-# 🔐 Database Constraints
+## 🔐 Database Constraints
 
 The database uses:
 
@@ -654,7 +654,7 @@ This prevents negative inventory values at the database level.
 
 ------------------------------------------------------------------------
 
-# 📌 Key SQL Concepts Demonstrated
+## 📌 Key SQL Concepts Demonstrated
 
 This project provides practical experience with:
 
@@ -685,7 +685,7 @@ ROLLBACK
 
 ------------------------------------------------------------------------
 
-# 🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 After completing this project, you should be able to explain:
 
@@ -701,22 +701,22 @@ After completing this project, you should be able to explain:
 -   How to structure a Python database application
 
 ------------------------------------------------------------------------
-
-# 💼 Resume Description
-
-You can include the project on your resume as:
-
-> **Inventory Management & Business Reporting System** --- Designed a
-> normalized PostgreSQL database and developed a Python-based inventory
-> management application using `psycopg2`, implementing CRUD operations,
-> relational joins, stock tracking, transaction management, and
-> SQL-based business reports. Implemented purchase and sales workflows
-> with commit/rollback handling and generated inventory, sales,
-> category, and revenue reports using SQL aggregation.
+## 🖥️ Project Outcome
+### pgsql:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ea544cd5-0e1b-4d94-9d31-3d65e138dc57" />
+### python main file output:
+<img width="685" height="885" alt="image" src="https://github.com/user-attachments/assets/b70121a8-4d1c-41aa-959e-dd5dddda46ef" />
+<img width="838" height="846" alt="image" src="https://github.com/user-attachments/assets/af2e1f20-4d4c-43dd-a5f3-e43a183f953c" />
+<img width="789" height="832" alt="image" src="https://github.com/user-attachments/assets/d31c3230-cec2-457f-99fc-c2c3c7a7984e" />
+<img width="724" height="836" alt="image" src="https://github.com/user-attachments/assets/7269d237-7654-4c0d-8c7b-2c0d36f50350" />
+<img width="848" height="812" alt="image" src="https://github.com/user-attachments/assets/fcb4628f-2382-48a6-949a-6b68460abf27" />
+<img width="769" height="841" alt="image" src="https://github.com/user-attachments/assets/092c3e99-c1bb-4d4e-a134-901cbd855334" />
+<img width="730" height="830" alt="image" src="https://github.com/user-attachments/assets/b7c996d7-974f-4e7c-b98e-e895817119e1" />
+<img width="815" height="570" alt="image" src="https://github.com/user-attachments/assets/7f3f86d3-c469-41c8-892d-35fd6945eb30" />
 
 ------------------------------------------------------------------------
 
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Possible improvements include:
 
@@ -738,13 +738,17 @@ Possible improvements include:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Bachina Sai Harshith**
 
-GitHub: `https://github.com/saiharshith123`
+GitHub: `https://github.com/saiharshith123/inventory_management`
 
-LinkedIn: `https://www.linkedin.com/in/bachina-sai-harshith-b06a50208/`
+------------------------------------------------------------------------
+
+## 📄 License
+
+This project is licensed under open source.
 
 ------------------------------------------------------------------------
 
@@ -767,6 +771,3 @@ Transactions
       +
 Business Reports
 ```
-
-If you found this project useful, consider giving the repository a ⭐ on
-GitHub.
